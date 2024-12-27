@@ -82,6 +82,8 @@ This chapter looks at how technology affects individuals and society, focusing o
 - **Large Databases and Monitoring**: The concerns raised by the extensive use of databases by organizations and governments, and the risks to privacy.
 
 ---
+![ch 8](https://github.com/user-attachments/assets/6f62be4b-7d57-4b91-9df3-5179a047e630)
+
 
 ## Chapter 8: Cloud Computing
 
