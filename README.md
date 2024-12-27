@@ -1,6 +1,6 @@
-# Project Overview
+# Overview
 
-This project explores various aspects of technology, focusing on databases, networking, technology's impact on society, and cloud computing. It delves into how these areas contribute to the modern digital landscape, discussing key concepts, systems, and trends in each field.
+This chapter explores various aspects of technology, focusing on databases, networking, technology's impact on society, and cloud computing. It delves into how these areas contribute to the modern digital landscape, discussing key concepts, systems, and trends in each field.
 
 ## Table of Contents
 
