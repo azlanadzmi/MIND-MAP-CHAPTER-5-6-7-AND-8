@@ -70,6 +70,8 @@ This chapter covers the basics of networking and communication systems.
 
 ---
 
+![image](https://github.com/user-attachments/assets/5224297f-1f3d-45b1-9ee4-33cf3965026d)
+
 ## Chapter 7: Technology's Impact on Society
 
 This chapter looks at how technology affects individuals and society, focusing on privacy, security, and ethics.
