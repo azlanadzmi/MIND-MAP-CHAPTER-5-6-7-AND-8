@@ -44,6 +44,9 @@ This chapter focuses on the organization and management of data using databases 
 
 ---
 
+![Screenshot 2024-12-28 085344](https://github.com/user-attachments/assets/a9dc2731-55c3-4110-a261-7ce479a29184)
+
+
 ## Chapter 6: Network and Communication
 
 This chapter covers the basics of networking and communication systems.
